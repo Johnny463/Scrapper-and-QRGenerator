@@ -1,0 +1,12 @@
+langchain 
+deeplake 
+openai 
+qrcode 
+apify_client 
+tiktoken  
+langchain-openai 
+python-dotenv 
+pydantic==1.10.8
+qreader
+opencv-python
+langchain_community
